@@ -4,6 +4,7 @@ include AS3935.h and AS3935.cpp with all function
 use ICACHE_RAM_ATTR with irq to avoid ISR not in ram error with latest esp8266 core 
 
 WEMOS D1 mini
+
 SDA -> D2
 SCL -> D1
 IRQ -> D5
